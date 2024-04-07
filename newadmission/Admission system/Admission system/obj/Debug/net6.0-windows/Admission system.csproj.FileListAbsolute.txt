@@ -1,0 +1,85 @@
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.exe
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.deps.json
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.runtimeconfig.json
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.dll
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.pdb
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Form1.resources
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Properties.Resources.resources
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.GenerateResource.cache
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.GeneratedMSBuildEditorConfig.editorconfig
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.AssemblyInfoInputs.cache
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.AssemblyInfo.cs
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.CoreCompileInputs.cache
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.dll
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\refint\Admission system.dll
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.pdb
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.genruntimeconfig.cache
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\ref\Admission system.dll
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.StudentManagement.resources
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.mainForm.resources
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.AssemblyReference.cache
+F:\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.CopyComplete
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.AssemblyReference.cache
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Form1.resources
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.mainForm.resources
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Properties.Resources.resources
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.StudentManagement.resources
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.GenerateResource.cache
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.AssemblyInfoInputs.cache
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.AssemblyInfo.cs
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.CoreCompileInputs.cache
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\refint\Admission system.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.pdb
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.exe
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.deps.json
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.runtimeconfig.json
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.pdb
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admissio.E1CB2505.Up2Date
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.genruntimeconfig.cache
+C:\Users\trong\Documents\Zalo Received Files\Admission system\Admission system\obj\Debug\net6.0-windows\ref\Admission system.dll
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.exe
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.dll
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.AssemblyReference.cache
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Enrollment_Management.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Form1.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Information_Management.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.mainForm.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.MajorManagement.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.ParentManagement.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.Properties.Resources.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission_system.StudentManagement.resources
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.GenerateResource.cache
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.GeneratedMSBuildEditorConfig.editorconfig
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.AssemblyInfoInputs.cache
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.AssemblyInfo.cs
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.CoreCompileInputs.cache
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.csproj.CopyComplete
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.dll
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\refint\Admission system.dll
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.pdb
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.deps.json
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.runtimeconfig.json
+D:\newadmission\Admission system\Admission system\bin\Debug\net6.0-windows\Admission system.pdb
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\Admission system.genruntimeconfig.cache
+D:\newadmission\Admission system\Admission system\obj\Debug\net6.0-windows\ref\Admission system.dll
