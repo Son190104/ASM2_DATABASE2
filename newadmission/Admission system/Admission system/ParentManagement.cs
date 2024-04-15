@@ -71,7 +71,7 @@ namespace Admission_system
                         command.Parameters.AddWithValue("@Phone", phone);
                         command.Parameters.AddWithValue("@Email", email);
                         command.Parameters.AddWithValue("@Address", address);
-                        command.Parameters.AddWithValue("@SelectedCode", dataGridView1.Rows[selectedRowIndex].Cells["CODE"].Value.ToString());
+                        command.Parameters.AddWithValue("@SelectedCode", dataGridView1.Rows[selectedRowIndex].Cells["ParentCode"].Value.ToString());
 
 
                         command.ExecuteNonQuery();
@@ -135,8 +135,8 @@ namespace Admission_system
 
 
 
-                // Đổi nút "Update" thành "Create"
-                button1.Text = "Create";
+                // Đổi nút "Create" thành "Update"
+                button1.Text = "Update";
             }
         }
         private void GetData()
